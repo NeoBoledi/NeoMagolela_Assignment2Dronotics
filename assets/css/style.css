@@ -168,17 +168,17 @@ p {
 .about hr {
     width: 10%;
     height: 2.5px;
-    margin-left: 300px;
+    margin-left: 280px;
     margin-top: 20px;
     background-color: var(--primary-color);
 }
 
 .about-content {
-    padding: 60px;
+    margin: 70px;
 }
 
 .about p {
-    padding: 65px;
+    margin: 30px;
     font-weight: 200;
 }
 
